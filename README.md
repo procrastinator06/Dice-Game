@@ -1,1 +1,1 @@
-# Dice-Game
+# Try your luck !
